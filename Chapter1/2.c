@@ -6,7 +6,7 @@ int main(void)
 	/*Fahr to Celcius Table from 0 fahr to 300*/
 
 
-	int fahr,celcius;
+	float fahr,celcius;
 	int lowest = 0;
 	int upper = 300;
 	int step = 20;
@@ -15,8 +15,8 @@ int main(void)
 
 	while(fahr <= upper)
 	{
-		celcius = 5*(fahr-32)/9;
-		printf("Celcius:%3d\tFahrenheit:%3d\n",celcius,fahr);
+		celcius = 5*(fahr-32.0)/9.0;
+		printf("Celcius:%3.1f\tFahrenheit:%3.0f\n",celcius,fahr);
 		fahr+=step;
 	}
 
