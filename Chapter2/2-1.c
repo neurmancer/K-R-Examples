@@ -11,7 +11,7 @@ int main(void)
 
 	printf("---\t\t\tValues of primitive types in C---\n\t\tLowest\t\tHighest\n");
 	printf("Char:%10d\t%10d\n",CHAR_MIN,CHAR_MAX);
-	printf("Signed Int:\t%d\t%d\n",INT_MAX,INT_MIN);
+	printf("Signed Int:\t%d\t%d\n",INT_MIN,INT_MAX);
 	printf("Long:%10ld\t%10ld\n",LONG_MIN,LONG_MAX);
 	printf("Signed Char:%10d\t%10d\n",SCHAR_MIN,SCHAR_MAX);
 	printf("Short int:%10d\t%10d\n",SHRT_MIN,SHRT_MAX);

@@ -8,7 +8,8 @@ Besides that as a proof that you can do too if a random guy writing those can do
 
 - Chapter 1 cleared 
 - Chapter 2
-    2.1.c Done
-    2.2c Done
-    2.3 Pending (page 43)
-    
+- - 2.1.c Done
+- - 2.2c Done
+- - 2.3.c Done
+- - 2.4.c Done
+- - 2.5.c Pending
