@@ -16,4 +16,6 @@ Besides that as a proof that you can do too if a random guy writing those can do
 - - All bitwise Opeartions moved to a subfolder called bitwise OPs to seperate 
 - - - 2-7.c Done
 - - - 2-8.c Done 
-- - - 2-9.c Done and Grok told me the solution I 'reinvented' is called Brian Kernighan’s Algorithm (yeah, the K in K&R).I am glad with 
+- - - 2-9.c Done and Funfact: Grok told me the solution I 'reinvented' is called Brian Kernighan’s Algorithm (yeah, the K in K&R).I am glad with it
+
+- - - 2-10.c Done.
