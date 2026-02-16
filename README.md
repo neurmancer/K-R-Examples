@@ -13,6 +13,7 @@ Besides that as a proof that you can do too if a random guy writing those can do
 - - 2-3.c Done
 - - 2-4.c Done
 - - 2-5.c Done
-- - 2-6.c Done
-- - 2-7.c Done
-- - 2-8.c Done 
+- - All bitwise Opeartions moved to a subfolder called bitwise OPs to seperate 
+- - - 2-7.c Done
+- - - 2-8.c Done 
+- - - 2-9.c Done and Grok told me the solution I 'reinvented' is called Brian Kernighan’s Algorithm (yeah, the K in K&R).I am glad with 
