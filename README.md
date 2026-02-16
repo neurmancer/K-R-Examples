@@ -14,4 +14,5 @@ Besides that as a proof that you can do too if a random guy writing those can do
 - - 2-4.c Done
 - - 2-5.c Done
 - - 2-6.c Done
-- - 2-7.c Pending....
+- - 2-7.c Done
+- - 2-8.c Done 
