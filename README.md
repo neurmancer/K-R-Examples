@@ -23,4 +23,6 @@ Besides that as a proof that you can do too if a random guy writing those can do
 - Chapter 3 
 - - 3-1.c skipped due to lack of my knowledge about DSA(binary search tree)
 - - 3-2.c Done
-- - 3-3.c Pending...
+- - 3-3.c Done 
+- - 3-4.c Skipped
+- - 3-4.c Done...
