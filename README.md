@@ -26,4 +26,5 @@ Besides that as a proof that you can do too if a random guy writing those can do
 - - 3-3.c Done 
 - - 3-4.c Done
 - - 3-5.c Done
-- - 3-6.c Pending...
+- - 3-6.c Skipped... (I didn't get what it wanted)
+
