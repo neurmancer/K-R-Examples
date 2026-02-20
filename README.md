@@ -40,7 +40,7 @@ Besides that as a proof that you can do too if a random guy writing those can do
 > - 4-2.c Done
 > - 4-3.c Done
 > - 4-4.c Done 
-- Rest skipped because it feels they got way complicated for my level rn (4-5,4-4-14)
+- Rest skipped because it feels they got way complicated for my level rn (4-5,4-4-14) will be revisited 
 
 > Chapter 5
 
