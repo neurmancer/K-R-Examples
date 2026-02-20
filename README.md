@@ -35,9 +35,15 @@ Besides that as a proof that you can do too if a random guy writing those can do
 > - 3-6.c Skipped... (I didn't get what it wanted)
 
 > Chapter 4
+
 > - 4-1.c Done
 > - 4-2.c Done
+> - 4-3.c Done
+> - 4-4.c Done 
+- Rest skipped because it feels they got way complicated for my level rn (4-5,4-4-14)
 
+> Chapter 5
 
+> - 5-1.c Pending...
 
 
